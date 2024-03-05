@@ -1,0 +1,530 @@
+[
+    {
+        "id": 1,
+        "question": "The U.S. Constitution does all of the following EXCEPT:",
+        "options": [
+            "a. Defines what federal government can do",
+            "b. Defines what states can do",
+            "c. Set up the government",
+            "d. Protect basic rights of Americans"
+        ],
+        "answer": "b. Defines what states can do"
+    },
+    {
+        "id": 2,
+        "question": "The first amendment gives the following rights EXCEPT:",
+        "options": [
+            "a. Religion",
+            "b. Petition the government",
+            "c. Assembly",
+            "d. Vote"
+        ],
+        "answer": "d. Vote"
+    },
+    {
+        "id": 3,
+        "question": "How many Amendments are there currently to the U.S. Constitution?",
+        "options": [
+            "a) 10",
+            "b) 24",
+            "c) 27",
+            "d) 28"
+        ],
+        "answer": "c. 27"
+    },
+    {
+        "id": 4,
+        "question": "Freedoms not outlined in the U.S. Constitution were outlined in:",
+        "options": [
+            "a) The Federalist Papers",
+            "b) The Bill of Rights",
+            "c) The Articles of Confederation",
+            "d) The Declaration of Independence"
+        ],
+        "answer": "a) The Federalist Papers"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following are rights in the Declaration of Independence?",
+        "options": [
+            "a) Life, liberty and property",
+            "b) Life, liberty and pursuit of happiness",
+            "c) Right to practice any religion or none at all",
+            "d) Right to petition the government"
+        ],
+        "answer": "b) Life, liberty and pursuit of happiness"
+    },
+    {
+        "id": 6,
+        "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+        "options": [
+            "a) Justice for all",
+            "b) We the people",
+            "c) We the citizens",
+            "d) Liberty for all"
+        ],
+        "answer": "b) We the people"
+    },
+    {
+        "id": 7,
+        "question": "What is the economic system in the U.S.?",
+        "options": [
+            "a) Communist system",
+            "b) Capitalist economy",
+            "c) Federalist system",
+            "d) Command economy"
+        ],
+        "answer": "b) Capitalist economy"
+    },
+    {
+        "id": 8,
+        "question": "The rule of law states:",
+        "options": [
+            "a) No one is above the law",
+            "b) Executive privilege trumps certain laws",
+            "c) People must follow the law if they are a U.S. citizen",
+            "d) Government sets the laws"
+        ],
+        "answer": "a) No one is above the law"
+    },
+    {
+        "id": 9,
+        "question": "What is the proper order of succession if the President is no longer able to serve?",
+        "options": [
+            "a) Vice President then Secretary of State",
+            "b) Vice President then President Pro Tempore of the Senate",
+            "c) Vice President then Speaker of the House",
+            "d) If the Vice President cannot serve, there is a special election"
+        ],
+        "answer": "b) Vice President then President Pro Tempore of the Senate"
+    },
+    {
+        "id": 10,
+        "question": "Who makes federal laws?",
+        "options": [
+            "a) Legislative Branch",
+            "b) Judicial Branch",
+            "c) Executive Branch",
+            "d) Governors"
+        ],
+        "answer": "a) Legislative Branch"
+    },
+    {
+        "id": 11,
+        "question": "We elect a U.S. Senator for how many years?",
+        "options": [
+            "a) 2",
+            "b) 4",
+            "c) 6",
+            "d) 8"
+        ],
+        "answer": "c) 6"
+    },
+    {
+        "id": 12,
+        "question": "There are how many voting members in the U.S. House of Representatives?",
+        "options": [
+            "a) 100",
+            "b) 430",
+            "c) 435",
+            "d) 450"
+        ],
+        "answer": "c) 435"
+    },
+    {
+        "id": 13,
+        "question": "Who is Commander in Chief of the military?",
+        "options": [
+            "a) President",
+            "b) Vice President",
+            "c) President of the Senate",
+            "d) Secretary of Defense"
+        ],
+        "answer": "a) President"
+    },
+    {
+        "id": 14,
+        "question": "Who is the current Chief Justice of the U.S. Supreme Court?",
+        "options": [
+            "a) John Roberts Jr.",
+            "b) Brett Kavanaugh",
+            "c) Ruth Bader Ginsburg",
+            "d) Clarence Thomas"
+        ],
+        "answer": "a) John Roberts Jr."
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is NOT a power of the states?",
+        "options": [
+            "a) To provide education",
+            "b) To provide protection and safety",
+            "c) To determine driving license regulations",
+            "d) To print money"
+        ],
+        "answer": "d) To print money"
+    },
+    {
+        "id": 16,
+        "question": "All of the following are powers of the federal government EXCEPT?",
+        "options": [
+            "a) To declare war",
+            "b) To approve zoning and land use",
+            "c) To create an army",
+            "d) To print money"
+        ],
+        "answer": "b) To approve zoning and land use"
+    },
+    {
+        "id": 17,
+        "question": "Each of the following amendments to the U.S. Constitution deal with who can vote EXCEPT:",
+        "options": [
+            "a) 13th Amendment",
+            "b) 15th Amendment",
+            "c) 19th Amendment",
+            "d) 26th Amendment"
+        ],
+        "answer": "a) 13th Amendment"
+    },
+    {
+        "id": 18,
+        "question": "The principle of American government that establishes concurrent state and national governments is known as:",
+        "options": [
+            "a) Separation of powers",
+            "b) Limited government",
+            "c) Federalism",
+            "d) Checks and balances"
+        ],
+        "answer": "c) Federalism"
+    },
+    {
+        "id": 19,
+        "question": "The Fifth Amendment protects citizens from all of the following EXCEPT:",
+        "options": [
+            "a) Being tried twice for the same offense (double jeopardy)",
+            "b) Being tried for a capital crime",
+            "c) Serving as a witness against themselves (self-incrimination)",
+            "d) Being deprived due process of law"
+        ],
+        "answer": "b) Being tried for a capital crime"
+    },
+    {
+        "id": 20,
+        "question": "Which of the following are rights for anyone living in the U.S. regardless of citizenship?",
+        "options": [
+            "a) Vote in a federal election",
+            "b) Serve on a jury",
+            "c) Run for federal office",
+            "d) Petition the government"
+        ],
+        "answer": "d) Petition the government"
+    },
+    {
+        "id": 21,
+        "question": "What steps are taken to ratify an amendment?",
+        "options": [
+            "a) It must be proposed by 2/3 of both Houses or by 2/3 of the states, and then ratified by 3/4 of the states",
+            "b) It must be ratified by 2/3 of both Houses or by 2/3 of the states, and then ratified by the President",
+            "c) It must be proposed by the President and ratified by all 50 states",
+            "d) It must be proposed by the Supreme Court, and then ratified by 2/3 of Congress"
+        ],
+        "answer": "a) It must be proposed by 2/3 of both Houses or by 2/3 of the states, and then ratified by 3/4 of the states"
+    },
+    {
+        "id": 22,
+        "question": "All of the following are ways that Americans can participate in their democracy EXCEPT:",
+        "options": [
+            "a) Join a political party",
+            "b) Give an elected official your opinion on an issue",
+            "c) Vote",
+            "d) Volunteer to help the needy in your community"
+        ],
+        "answer": "d) Volunteer to help the needy in your community"
+    },
+    {
+        "id": 23,
+        "question": "The colonists fought the British for all of the following reasons EXCEPT:",
+        "options": [
+            "a) Land ownership disputes",
+            "b) Taxation without representation",
+            "c) Quartering",
+            "d) They wanted self-government"
+        ],
+        "answer": "a) Land ownership disputes"
+    },
+    {
+        "id": 24,
+        "question": "All of the following were original colonies EXCEPT:",
+        "options": [
+            "a) Massachusetts",
+            "b) Connecticut",
+            "c) Virginia",
+            "d) Vermont"
+        ],
+        "answer": "d) Vermont"
+    },
+    {
+        "id": 25,
+        "question": "The Federalist Papers were written by the following authors EXCEPT:",
+        "options": [
+            "a) Thomas Jefferson",
+            "b) James Madison",
+            "c) Alexander Hamilton",
+            "d) John Jay"
+        ],
+        "answer": "a) Thomas Jefferson"
+    },
+    {
+        "id": 26,
+        "question": "Benjamin Franklin is known for the following EXCEPT:",
+        "options": [
+            "a) First Postmaster General of the U.S.",
+            "b) Started the first free libraries",
+            "c) First Secretary of State",
+            "d) Served as a U.S. diplomat"
+        ],
+        "answer": "c) First Secretary of State"
+    },
+    {
+        "id": 27,
+        "question": "All of the following were reasons that led to the Civil War EXCEPT:",
+        "options": [
+            "a) States’ rights",
+            "b) Taxation without representation",
+            "c) Economic reasons",
+            "d) Slavery"
+        ],
+        "answer": "b) Taxation without representation"
+    },
+    {
+        "id": 28,
+        "question": "Susan B. Anthony is best known for:",
+        "options": [
+            "a) Fighting for women’s rights",
+            "b) Creating the first U.S. flag",
+            "c) Serving as the first female U.S. Senator",
+            "d) Helping wounded soldiers in World War I"
+        ],
+        "answer": "a) Fighting for women’s rights"
+    },
+    {
+        "id": 29,
+        "question": "Who was President during World War I?",
+        "options": [
+            "a) William Taft",
+            "b) Woodrow Wilson",
+            "c) Theodore Roosevelt",
+            "d) Franklin D. Roosevelt"
+        ],
+        "answer": "b) Woodrow Wilson"
+    },
+    {
+        "id": 30,
+        "question": "During the Cold War, what was the main concern of the U.S.?",
+        "options": [
+            "a) Communism",
+            "b) Global Warming",
+            "c) Crop failures and famine",
+            "d) Nazism"
+        ],
+        "answer": "a) Communism"
+    },
+    {
+        "id": 31,
+        "question": "What part of the Constitution protects the freedom of religion?",
+        "options": [
+            "a) The Preamble",
+            "b) The Bill of Rights",
+            "c) Article I",
+            "d) Article II"
+        ],
+        "answer": "b) The Bill of Rights"
+    },
+    {
+        "id": 32,
+        "question": "This case established the policy of judicial review",
+        "options": [
+            "a) Brown vs. Board of Education",
+            "b) Tinker vs. Des Moines",
+            "c) Marbury vs. Madison",
+            "d) Morse vs. Frederick"
+        ],
+        "answer": "c) Marbury vs. Madison"
+    },
+    {
+        "id": 33,
+        "question": "This case ended segregation in public schools",
+        "options": [
+            "a) Plessy vs. Ferguson",
+            "b) Brown vs. Board of Education",
+            "c) New Jersey v. T.L.O.",
+            "d) Bethel School District v. Fraser"
+        ],
+        "answer": "b) Brown vs. Board of Education"
+    },
+    {
+        "id": 34,
+        "question": "This case advocated free speech in the schools in the form of an anti-war protest",
+        "options": [
+            "a) Tinker vs. Des Moines",
+            "b) Gideon vs. Wainwright",
+            "c) Mapp vs. Ohio",
+            "d) Morse v. Frederick"
+        ],
+        "answer": "a) Tinker vs. Des Moines"
+    },
+    {
+        "id": 35,
+        "question": "This case guaranteed certain rights for individuals being arrested",
+        "options": [
+            "a) Marbury vs. Madison",
+            "b) Tinker vs. Des Moines",
+            "c) Hazelwood vs. Kuhlmeier",
+            "d) Miranda vs. Arizona"
+        ],
+        "answer": "d) Miranda vs. Arizona"
+    },
+    {
+        "id": 36,
+        "question": "This decision allowed for women to have abortions",
+        "options": [
+            "a) Roe vs. Wade",
+            "b) Griswold v. Connecticut",
+            "c) Mapp v. Ohio",
+            "d) New Jersey v. T.L.O."
+        ],
+        "answer": "a) Roe vs. Wade"
+    },
+    {
+        "id": 37,
+        "question": "In Plessy V. Ferguson, the Supreme Court ruled that segregation was",
+        "options": [
+            "a) unconstitutional",
+            "b) legal in all forms",
+            "c) legal as long as the facilities were equal",
+            "d) protected by the First Amendment"
+        ],
+        "answer": "c) legal as long as the facilities were equal"
+    },
+    {
+        "id": 38,
+        "question": "Flag burning is protected by free speech",
+        "options": [
+            "a) Texas vs. Johnson",
+            "b) Mapp vs. Ohio",
+            "c) Miranda vs. Arizona",
+            "d) McCulloch vs. Maryland"
+        ],
+        "answer": "a) Texas vs. Johnson"
+    },
+    {
+        "id": 39,
+        "question": "Voted against public prayer and Bible readings in school",
+        "options": [
+            "a) Board of Ed. v. Earls",
+            "b) Engel v. Vitale",
+            "c) Brown v. Board of Education",
+            "d) Plessy v. Ferguson"
+        ],
+        "answer": "b) Engel v. Vitale"
+    },
+    {
+        "id": 40,
+        "question": "Schools only need reasonable suspicion (not a warrant) to search students. This is necessary to provide a safe learning environment.",
+        "options": [
+            "a) Bethal School District v. Fraser",
+            "b) Gideon v. Wainwright",
+            "c) Tinker v. Des Moines",
+            "d) New Jersey v. TLO"
+        ],
+        "answer": "d) New Jersey v. TLO"
+    },
+    {
+        "id": 41,
+        "question": "In this case the court ruled the policy of any institution using quotas (a predetermined number) as part of affirmative action to be unconstitutional. In other words, institutions are not allowed to use race or gender quotas for hiring or acceptance practices.",
+        "options": [
+            "a) Regents of the Univ. of Calif. v. Bakke",
+            "b) Brown v. Board of Education of Topeka, Kansas",
+            "c) Grutter v. Bollinger",
+            "d) Roe v. Wade"
+        ],
+        "answer": "a) Regents of the Univ. of Calif. v. Bakke"
+    },
+    {
+        "id": 42,
+        "question": "During WWII, the Supreme Court ruled that relocation of Japanese-American citizens to internment camps was constitutional. Over 40 years later, it was officially admitted that this ruling was in violation of the concept of limited government.",
+        "options": [
+            "a) Korematsu v. US",
+            "b) University of California v. Bakke",
+            "c) Roe v. Wade",
+            "d) Gideon v. Wainwright"
+        ],
+        "answer": "a) Korematsu v. US"
+    },
+    {
+        "id": 43,
+        "question": "This 1857 ruling declared slaves are property and not citizens and it nullified the Missouri Compromise.",
+        "options": [
+            "a) Dred Scott v Sandford",
+            "b) McCulloch v Maryland",
+            "c) Engel v. Vitale",
+            "d) Grutter v. Bollinger"
+        ],
+        "answer": "a) Dred Scott v Sandford"
+    },
+    {
+        "id": 44,
+        "question": "In Tinker v. Des Moines, the Tinkers were suspended from school for...",
+        "options": [
+            "a) holding up signs in the cafeteria.",
+            "b) wearing black armbands.",
+            "c) giving emotional speeches during class.",
+            "d) holding a \"sit in\" in the principal's office."
+        ],
+        "answer": "b) wearing black armbands."
+    },
+    {
+        "id": 45,
+        "question": "Which lessons did future U.S leaders learn from the 1974 Supreme Court Case U.S v. Nixon?",
+        "options": [
+            "a) The president is accountable for obeying laws",
+            "b) The president is accountable for enforcing the law",
+            "c) The president is not allowed to hold secret talks with foreign governments",
+            "d) The president is not allowed to have private meetings with Cabinet members"
+        ],
+        "answer": "a) The president is accountable for obeying laws"
+    },
+    {
+        "id": 46,
+        "question": "States must pay for public defenders as a result of which U.S Supreme Court case?",
+        "options": [
+            "a) DC. v. Heller",
+            "b) Hazelwood v. Kuhlmeier",
+            "c) Gideon v. Wainwright",
+            "d) Miranda v. Arizona"
+        ],
+        "answer": "c) Gideon v. Wainwright"
+    },
+    {
+        "id": 47,
+        "question": "Evidence that is illegally obtained by the state may not be used against a defendant in court.",
+        "options": [
+            "a) Plessy v. Ferguson",
+            "b) Korematsu v. United States",
+            "c) Mapp v. Ohio",
+            "d) Engel v. Vitale"
+        ],
+        "answer": "c) Mapp v. Ohio"
+    },
+    {
+        "id": 48,
+        "question": "Which of the following has a requirement that all males in the U.S. (including immigrants) between 18-26 register with them?",
+        "options": [
+            "a) Judicial Branch",
+            "b) Federalists",
+            "c) Rule of law",
+            "d) Selective Service"
+        ],
+        "answer": "d) Selective Service"
+    }
+]

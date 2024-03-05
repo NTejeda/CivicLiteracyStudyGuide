@@ -1,0 +1,130 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.USAmap {
+  position: relative;
+  border-radius: 10px;
+  border: 2px solid #000000; /* Adjust as needed */
+  border-color: rgb(184, 184, 184);
+  border-width: 5px;
+  box-shadow: 0px 0px 10px 3px rgba(238, 150, 61, 0.75); /* Adjust as needed */
+}
+
+.USAmap .start-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 165, 0, 0.5);
+  color: black;
+  border-radius: 12px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 0 40px rgb(0, 255, 225);
+}
+
+.USAmap .start-button:hover {
+  background-color: orange;
+}
+
+.card-container {
+  position: relative;
+  background-image: linear-gradient(to bottom, rgba(255, 165, 0, 0.5), transparent, rgba(255, 165, 0, 0.5)), url('/public/usamap.png');
+  background-size: 110% 110%; 
+  background-repeat: no-repeat; 
+  background-position: 50% 0;
+  border: rgb(246, 189, 85) 5px solid;
+  box-shadow: 0px 0px 10px 3px orange; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 60vw; 
+  height: 40vh; 
+  
+}
+
+.card.front, .card.back {
+  position: absolute; /* Add this line */
+  top: 45%; /* Add this line */
+  left: 50%; /* Add this line */
+  transform: translate(-50%, -50%); /* Add this line */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%; /* Change this line */
+  height: 100%; /* Change this line */
+}
+
+.nextButton, .homeButton, .backButton {
+  background-color: orange;
+  border: none;
+  color: rgb(147, 14, 14);
+  padding: 1vw 2vw; /* Change this line */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5vw; /* Change this line */
+  margin: 1vw 0.5vw; /* Change this line */
+  cursor: pointer;
+  position: absolute;
+}
+
+.nextButton {
+  bottom: 2vh; /* Change this line */
+  right: 2vw; /* Change this line */
+}
+
+.homeButton {
+  top: .1vh; /* Change this line */
+  left: 2vw; /* Change this line */
+}
+
+.backButton {
+  bottom: 2vh; /* Change this line */
+  left: 2vw; /* Change this line */
+}
+
+.nextButton:hover, .homeButton:hover, .backButton:hover {
+  box-shadow: 0 0 10px orange;
+}
+
+.cardsTitle {
+  font-size: 2.5vw; /* Change this line */
+  color: orange;
+  text-shadow: 0 0 10px orange;
+  margin: 2vh 0;
+}
+
+.options-list {
+  list-style-type: none;
+  text-align: left;
+  background-color: rgba(255, 255, 0, 0.5);
+  
+  margin-top: 0;
+}
+
+.questions {
+  background-color: rgba(173, 216, 230, 0.5);
+  font-size: 2.5vw; /* Change this line */
+  color: rgb(147, 14, 14);
+  text-shadow: 0 0 10px orange;
+ 
+  margin-bottom: 0;
+}
